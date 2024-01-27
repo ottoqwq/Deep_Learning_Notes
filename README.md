@@ -14,8 +14,9 @@ Things I recommend:
 - François Chollet."Deep Learning with Python"
 
 ## Blogs
-http://colah.github.io/  
+- http://colah.github.io/  
 - Understanding LSTM Networks
+- https://github.com/Mikoto10032/DeepLearning
 
 ## Papers
 - Voulodimos, Athanasios, et al. "Deep learning for computer vision: A brief review."
