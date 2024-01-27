@@ -13,7 +13,7 @@ Things I recommend:
 
 ## Books
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-- François Chollet."Deep Learning with Python"
+- Deep Learning with Python by _François Chollet_
 
 ## Blogs
 - [colah's blog](http://colah.github.io/)
