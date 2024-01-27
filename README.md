@@ -18,7 +18,7 @@ Things I recommend:
 ## Blogs
 - [colah's blog](http://colah.github.io/)
   -  Understanding LSTM Networks
-- [Study guide for DL](https://github.com/Mikoto10032/DeepLearning)
+- [Deep Learning Tutorial](https://github.com/Mikoto10032/DeepLearning)by @Mikto10032
 
 ## Papers
 - Voulodimos, Athanasios, et al. "Deep learning for computer vision: A brief review."
