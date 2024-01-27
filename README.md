@@ -8,7 +8,7 @@ Things I recommend:
 ## Videos
 - [3Blue1Brown's videos](http://3b1b.co/neural-networks)
 
-- [Berkely CS182 cources](https://inst.eecs.berkeley.edu/~cs182/sp23/)
+- [Berkely CS182 courses](https://inst.eecs.berkeley.edu/~cs182/sp23/)
   - Designing, Visualizing and Understanding Deep Neural Networks
 
 ## Books
