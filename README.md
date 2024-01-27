@@ -8,7 +8,7 @@ Things I recommend:
 ## Videos
 - [3Blue1Brown's videos](http://3b1b.co/neural-networks)
 
-- [Berkely CS182](https://inst.eecs.berkeley.edu/~cs182/sp23/)
+- [Berkely CS182 cources](https://inst.eecs.berkeley.edu/~cs182/sp23/)
   - Designing, Visualizing and Understanding Deep Neural Networks
 
 ## Books
@@ -18,7 +18,7 @@ Things I recommend:
 ## Blogs
 - [colah's blog](http://colah.github.io/)
   -  Understanding LSTM Networks
-- [Deep Learning Tutorial](https://github.com/Mikoto10032/DeepLearning)by @Mikto10032
+- [Deep Learning Tutorial](https://github.com/Mikoto10032/DeepLearning) by @Mikto10032
 
 ## Papers
 - Voulodimos, Athanasios, et al. "Deep learning for computer vision: A brief review."
