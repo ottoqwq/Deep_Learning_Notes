@@ -14,8 +14,8 @@ Things I recommend:
 - François Chollet."Deep Learning with Python"
 
 ## Blogs
-- http://colah.github.io/  
-- Understanding LSTM Networks
+- http://colah.github.io/
+  -  Understanding LSTM Networks
 - https://github.com/Mikoto10032/DeepLearning
 
 ## Papers
