@@ -1,4 +1,4 @@
-# AI_Study
+# Deep Learning Notes
 Here's how I study artificial intelligence(Neural Networks and Deep Learning)
 
 **Neural Networks and Deep Learning**
